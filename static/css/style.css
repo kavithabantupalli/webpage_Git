@@ -1,0 +1,52 @@
+.register-div{
+    float: left;
+    width: 35%;
+    border: 3px solid black;
+    margin: 10% 0% 10% 5%;
+    text-align: center;
+    background-color: rgb(147, 177, 241);
+
+}
+.register-div input{
+    float: left;
+    width: 90%;
+    border: 3px solid rgba(14, 12, 12, 0.89);
+    margin: 3% 0% 0% 4%;
+    background-color: rgb(151, 153, 235);
+}
+.register-div button{
+    float: left;
+    width: 35%;
+    border: 3px solid black;
+    margin: 3% 0% 5% 32%;
+    background-color: rgb(156, 141, 236);
+}
+.Login-div{
+    float: left;
+    width: 50%;
+    border: 3px solid black;
+    margin: 10% 0% 0% 5%;
+    text-align: center;
+    background-color: rgb(235, 160, 160);
+}
+.Login-div input{
+    float: left;
+    width: 90%;
+    border: 3px solid rgba(14, 12, 12, 0.89);
+    background-color: pink;
+    margin: 3% 0% 0% 4%;
+
+}
+.Login-div button{
+    float: left;
+    width: 35%;
+    border: 3px solid black;
+    margin: 3% 0% 5% 32%;
+    background-color: pink;
+}
+body{
+    background-image: url(../images/beach.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
